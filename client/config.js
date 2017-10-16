@@ -4,6 +4,7 @@
 
 // 此处主机域名修改成腾讯云解决方案分配的域名
 var host = 'https://hbvfn8rt.qcloud.la';
+//var host = 'https://632392289.koyuhau.club';
 
 var config = {
 
